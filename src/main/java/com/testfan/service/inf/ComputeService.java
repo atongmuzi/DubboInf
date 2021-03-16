@@ -4,4 +4,6 @@ public interface ComputeService {
 
 	public Integer add(int a, int b);
 
+	 System.out.println("hahaha");
+
 }
